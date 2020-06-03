@@ -1,0 +1,2 @@
+rootProject.name='psemana2'
+include ':app'
